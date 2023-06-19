@@ -1,0 +1,77 @@
+.resim{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    overflow: hidden;
+    animation: infinite;
+    cursor: pointer;
+}
+*{
+    background-color: white;
+   
+}
+
+.baslik{
+display: inline-flex;
+float: left;
+color:blueviolet;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: 40px;
+align-items: center;
+transform: rotate(0);
+overflow-y: auto;
+outline: invert;
+cursor: pointer;
+}
+
+.resimB{
+    width:90%;
+    height: 500px;
+    border-radius: 5px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.genel{
+   
+    
+    align-items: center;
+    cursor: pointer;
+}
+.ortala{
+    margin-top: 0;
+    text-align: center;
+    background: #000; 
+    color:#FFF; 
+    font-size:50px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+
+
+.Input-text{
+    display: block;
+    width: 70%;
+    height: 50px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 4px;
+    
+}
+
+.Input-label{
+    color:black;
+    padding: auto;
+    align-items: center;
+    padding: auto;
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.asd{
+    margin-left: 75px;
+}

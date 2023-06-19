@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Leckerli+One);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
+h1, h2 { 
+    margin: 0; 
+    font-family: 'Leckerli One', cursive;
+    text-shadow: 0 2px rgba(0,0,0,.5);
+  }
